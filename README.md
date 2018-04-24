@@ -1,0 +1,1 @@
+This is a js starter kit meant to be used to quick start development of web application using JS frameworks like Angular, React etc.
